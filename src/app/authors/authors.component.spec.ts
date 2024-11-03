@@ -21,3 +21,4 @@ describe('AuthorsComponent', () => {
     expect(component).toBeTruthy();
   });
 });
+
